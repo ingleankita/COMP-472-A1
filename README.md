@@ -10,6 +10,7 @@ To run the .ipynb files, there are two ways:
 2. Run the .ipynb files locally:
 - Download the the submission ZIP containing 2 files, one for the penguin and the other for abalone dataset
 - Extract the ZIP folder to a suitable location
+- Create a directory called "sample_data" and download the penguin.csv and abalone.csv files into this directory
 - If Jupyter Notebook is not already installed, install it following the steps mentioned here: https://jupyter.org/install
 - Open a terminal at the location of the extracted folder (cd into the extracted submission directory)
 - Run the command "jupyter notebook"
