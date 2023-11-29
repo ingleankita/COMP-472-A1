@@ -1,5 +1,7 @@
 # COMP 472 Assignment 1
 
+Please note that we collaborated for our assignment 1 on Colab so to view our contribution history kindly refer to the colab links below.
+
 To run the .ipynb files, there are two ways:
 
 1. Run the files on colab using the below links:
